@@ -141,6 +141,31 @@ Cada linha do código foi projetada para realizar uma tarefa específica:
 - **Após a criptografia**: O arquivo `teste.txt` é removido e substituído por `teste.txt.ransomwaretroll`.
 - **Após a descriptografia**: O arquivo original `teste.txt` é restaurado.
 
+
+![image](https://github.com/user-attachments/assets/8ecf4feb-9ad3-4622-b0af-b76d71b02017)
+
+![image](https://github.com/user-attachments/assets/81241989-2123-4334-8de4-a764387c25e1)
+
+![image](https://github.com/user-attachments/assets/2c150c24-9090-4780-b061-13ff79cf11c3)
+
+![image](https://github.com/user-attachments/assets/a224a4a9-694c-48c4-ad34-da019b64a4e6)
+
+![image](https://github.com/user-attachments/assets/2ceb261a-8a72-486b-96f4-10f79862fd63)
+
+![image](https://github.com/user-attachments/assets/f29460ef-8b59-4ac9-ab56-c4f1d984eb07)
+
+![image](https://github.com/user-attachments/assets/f8f95151-15c6-49b5-b4bd-b825fc84c1e2)
+
+![image](https://github.com/user-attachments/assets/4fa4ee00-5125-490a-90eb-6829f68fe162)
+
+
+
+
+
+
+
+
+
 ---
 
 ## Considerações Finais
